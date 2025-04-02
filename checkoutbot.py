@@ -1,6 +1,6 @@
 # Nessesary part
 import telebot
-token = '8090315181:AAHrrn765Z5xf92KHQP26l2CtGtyx6BtKaw'
+token = 'my token for bot is top secret'
 bot = telebot.TeleBot(token)
 from urllib.parse import urlparse
 from responds import IncorrectLink, SslDone, SslWrong, WafDone, WafFail, KukiDone, KukiFail
